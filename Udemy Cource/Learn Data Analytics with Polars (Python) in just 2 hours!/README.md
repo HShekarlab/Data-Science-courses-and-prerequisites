@@ -2,17 +2,16 @@ This repository contains Learn Data Analytics with Polars from the Udemy website
 
 Key Course Highlights:
 
--Data Ingestion: Learn how to efficiently load data from various sources, making it easy to work with diverse datasets.
+- Data Ingestion: Learn how to efficiently load data from various sources, making it easy to work with diverse datasets.
 
--Data Cleaning: Discover techniques to clean and preprocess your data, ensuring it's ready for analysis.
+- Data Cleaning: Discover techniques to clean and preprocess your data, ensuring it's ready for analysis.
 
--Data Aggregation : Master the art of aggregating and summarizing data, uncovering trends and patterns that drive decision-making.
+- Data Aggregation : Master the art of aggregating and summarizing data, uncovering trends and patterns that drive decision-making.
 
--Data Manipulation: Become proficient in data transformation and manipulation, enabling you to answer complex questions with ease.
+- Data Manipulation: Become proficient in data transformation and manipulation, enabling you to answer complex questions with ease.
 
--No Prior Experience Required: While some minor Python experience is beneficial, it's not a prerequisite. We'll start from the basics and guide you through each step.
+- No Prior Experience Required: While some minor Python experience is beneficial, it's not a prerequisite. We'll start from the basics and guide you through each step.
 
 
 Who this course is for:
-
-    This course is suitable for individuals at all skill levels, from beginners to experienced data analysts, Python enthusiasts, students, professionals in various fields, freelancers, and entrepreneurs, all seeking to acquire the essential skills for data analysis using the Polars library in Python.
+This course is suitable for individuals at all skill levels, from beginners to experienced data analysts, Python enthusiasts, students, professionals in various fields, freelancers, and entrepreneurs, all seeking to acquire the essential skills for data analysis using the Polars library in Python.
